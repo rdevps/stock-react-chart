@@ -1,0 +1,46 @@
+{
+  "name": "stock-react-chart",
+  "version": "1.0.0",
+  "description": "Highly customizable stock charts with ReactJS and d3",
+  "main": "index.js",
+  "dependencies": {
+    "d3-array": "^1.2.1",
+    "d3-collection": "^1.0.4",
+    "d3-force": "^1.1.0",
+    "d3-format": "^1.2.1",
+    "d3-interpolate": "^1.1.6",
+    "d3-path": "^1.0.5",
+    "d3-scale": "^1.0.7",
+    "d3-selection": "^1.2.0",
+    "d3-shape": "^1.2.0",
+    "d3-time": "^1.0.8",
+    "d3-time-format": "^2.1.1",
+    "debug": "^3.1.0",
+    "lodash.flattendeep": "^4.4.0",
+    "prop-types": "^15.6.0",
+    "save-svg-as-png": "^1.4.5"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0 || ^17.0.2",
+    "react-dom": "^16.0.0 || ^17.0.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdevps/stock-react-chart.git"
+  },
+  "keywords": [
+    "charts"
+  ],
+  "author": "Rahul Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdevps/stock-react-chart/issues"
+  },
+  "homepage": "https://github.com/rdevps/stock-react-chart#readme"
+}
