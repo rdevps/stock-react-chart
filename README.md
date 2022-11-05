@@ -86,7 +86,7 @@ and it is simple to create your own indicator too
 
 ### Installation
 ```sh
-npm install  --save vision-react-stock-chart
+npm install  --save stock-react-chart
 ```
 
 ### Documentation
